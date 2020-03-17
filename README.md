@@ -49,7 +49,7 @@
 
 ```sh
 # 克隆项目
-git clone https://github.com/push-over/vue-h5-template.git
+git clone https://github.com/ZhangShao28/vue-h5-template.git
 
 # 进入项目目录
 cd vue-h5-template
@@ -63,15 +63,6 @@ npm install --registry=https://registry.npm.taobao.org
 # 本地开发 启动项目
 npm start
 ```
-
-> TIP
->
-> 强烈建议不要用直接使用 cnpm 安装，会有各种诡异的 bug，可以通过重新指定 registry 来解决 npm 安装速度慢的问题。若还是不行，可使用 [yarn](https://github.com/yarnpkg/yarn) 替代 `npm`。
->
-> Windows 用户若安装不成功，很大概率是`node-sass`安装失败，[解决方案](https://github.com/PanJiaChen/vue-element-admin/issues/24)。
->
-> 另外因为 `node-sass` 是依赖 `python`环境的，如果你之前没有安装和配置过的话，需要自行查看一下相关安装教程。
-
 
 
 启动完成后会自动打开浏览器访问 [http://localhost:9000， 你看到下面的页面就代表操作成功了。
@@ -809,7 +800,7 @@ config.plugin('sentryPlugin')
 
 
 
-项目中还做了一些细节处理，详情请拉取项目查看，谢谢观看。觉得好可以给颗 star ，会持续更新，有问题可以留言或加我微信 `gao1336650475`
+
 
 
 
